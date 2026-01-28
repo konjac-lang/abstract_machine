@@ -48,16 +48,6 @@ This project is small (~few thousand LOC), readable, and meant for learning/hack
 
 ## Contributing
 
-Contributions are super welcome — bug fixes, new instructions, examples, docs!
-
-1. Fork it
-2. Create branch (`git checkout -b feature/amazing-thing`)
-3. Commit (`git commit -am 'Add amazing thing'`)
-4. Push (`git push origin feature/amazing-thing`)
-5. Open Pull Request
-
-## Contributing
-
 1. Fork it (<https://github.com/konjac-lang/abstract_machine/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
